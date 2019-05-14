@@ -1,0 +1,16 @@
+body{
+	background-color: #ebebeb!important;
+}
+.header{
+	height: 120px;
+	background-color: #000;
+}
+.menu{
+	background-color: #fff;
+}
+.carousel-caption{
+	right: auto !important;
+	bottom: auto !important;
+	top: 20% !important;
+	width: 30%;
+}
